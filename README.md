@@ -3,6 +3,7 @@
 
 This is the GitHub repository for the modlist Ysmir's Beard, by MZMpac. 
 
+![98f09933-ae8f-47ab-b70b-eb301c8a3b2b](https://github.com/user-attachments/assets/cc4badc5-b7ef-4bb5-8b4e-ea18e2098cfd)
 
 
 
