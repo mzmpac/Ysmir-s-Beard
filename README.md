@@ -39,6 +39,8 @@ Nudity and jiggle physics are built-in by default, so you never have to worry ab
 
 * Followers only voiced by real people.
 
+* Built for a controller!
+
 * Toggleable options that make your time more fun, such as soundtrack choices, controller support, leveling freedom, lanterns, and more. 
 
 --------------------------------------
@@ -52,19 +54,19 @@ Nudity and jiggle physics are built-in by default, so you never have to worry ab
 
 ### Disclaimer
 
-- Only English and Steam verions aare supported.
-- Requires 1.6.117 with full aniversary edition upgrade.
+- Only English and Steam verions are supported.
+- Requires 1.6.1170 with full aniversary edition upgrade.
 
 ### Recommended System Requirements
 
-I recommend a minimum of a modern high-performance desktop CPU, 32 GB RAM, and at least 16 GB VRAM. You can probably play with less, but may see frame stutters and choppiness. 
+I recommend a minimum of a modern high-performance desktop CPU, 32 GB RAM, and at least 12 GB VRAM. You can probably play with less, but may see frame stutters and choppiness. 
 
 My specs are as follows:
 
 - Intel i7 12700K
 - AMD 7900 XT 20 GB
 - 32 GB DDR4 3600 RAM
-- 4 TB Sansung 990 Pro NVME storage
+- 4 TB Samsung 990 Pro NVME storage
 - Seasonic 750W power supply
 - 3440 x 1440 OLED
 
@@ -165,15 +167,15 @@ Simply delete the whole Ysmir's Beard folder, and you have uninstalled it.
 
 ## FAQ, Problems, and Tips
 
+- "Will you add _____ mod?" Maybe, but probably not. Feel free to suggest something. 
+
 - DO NOT mess with the plugin load order (right pane in MO2). This is curated to work. If you add mods, make sure they load BEFORE FWMF plugins. Best practice is to place any added mods just above DynDOLOD/Occlusion. If you get a blue map, you have something loaded after maps.
   
 - You are free to add mods, but I cant support any resulting issues. In general, adding armor, weapons, and bodyslide presets is straightforward and not game-breaking.
   
 - You can get better (perceived) performance by enabaling Framegen in the ENB menu (shift+enter). Game will need to be restarted for this to take effect. I recommend this over Lossless Scaling.
 
-- You can get better actual performance by installing performance-friendly grass and tree mods (Happy Little Trees and Skoglendi are good options), but this is not supported. NGVO Discord FAQ has some guides. Beware, it is time-consuming and can break your game if you dont know what you're doing.
-
-- The only surefire way to get better performance is to get a better GPU.
+- The only surefire way to get better actual performance is to get a better GPU.
 
 - Best practices for saving: Do not Autosave. Manual save only. I personally not not overwrite. When you die, let the game take you back to the main menu and reload your save. This helps prevent save corruption.
 
