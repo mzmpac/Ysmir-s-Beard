@@ -13,7 +13,7 @@ Ysmir's Beard is a Skyrim modlist available on Wabbajack. I've been enjoying Wab
 
 ### What kind of list is it?
 
-Ysmir's Beard aims to modernize Skyrim's graphics and overhaul the game in the way I find most enjoyable to play. Since this is my first attempt at list-building, this will be a lot lighter than some of the 3,000 or 4,000 count modlists you might be used to playing. My goal is for it to look amazing, play like enhanced vanilla, and not be bloated with every mod under the sun. It will be harder than vanilla, but not as hard as Requiem, and I try to give you a lot of freedom on how you like your progression to unfold. I also empahsize lore-friendliness and immersion wherever possible. 
+Ysmir's Beard is a primarily visual/immersive list that enhances the classic skyrim experience. Most important to me is the overall vibe and visual appeal of the world, with moderate combat challenge and plenty of interesting loot and locations to discover. My modding philosophy is that less is more, so I will always try to keep this list at 1000 mods or less. 1000 mods is absurd for really any game but Skyrim; but since this is such an old game with a massive modding heritage, that's a pretty modest number. 
 
 There are not a ton of quest and content overhauls in this list; mainly because they tend to have a lot of conflicts, and more importantly I feel they tend to fall short in some way---either the writing, the voice-acting, the level design, etc. I have included a few I find worthwhile. 
 
@@ -21,15 +21,15 @@ Nudity and jiggle physics are built-in by default, so you never have to worry ab
 
 ### Highlights:
 
-* Built on NGVO 5.0.
+* Built from the ground-up, not a fork.
 
-* SimonRim
+* Mix of Enai and SimonRim
 
 * Hosts most of JaySerpa's quality-of-life mods.
 
 * Hosts most of JK's city and interior overhauls.
 
-* A few select content additions like Bruma, Midwood Isle, and Bal Meryan.
+* A few select content additions like Midwood Isle, and Bal Meryan.
 
 * 5 new playable races! 
 
@@ -37,9 +37,7 @@ Nudity and jiggle physics are built-in by default, so you never have to worry ab
 
 * Better/more interesting loot!!!
 
-* Carefully-selected followers voiced by real people.
-
-* New weapons and armors, including some skimpy (but still relatively lore-friendly) outfits for your viewing pleasure.
+* Followers only voiced by real people.
 
 * Toggleable options that make your time more fun, such as soundtrack choices, controller support, leveling freedom, lanterns, and more. 
 
@@ -54,28 +52,21 @@ Nudity and jiggle physics are built-in by default, so you never have to worry ab
 
 ### Disclaimer
 
-Only support English Steam versions of Skyrim Special Edition are supported. GOG and other Languages are not supported.
-
-⚠️ ❗ YSMIR'S BEARD REQUIRES YOUR SKYRIM VERSION TO BE UPDATED TO 1.6.1170 AND THIS IS THE GAME VERSION THAT THE MODLIST RUNS ON. YOU ALSO NEED FULL ANNIVERSARY EDITION ($20 UPGRADE) ❗ ⚠️
-
-Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant WILL NOT WORK. Your windows version must be 21H2 or newer to run both Wabbajack and NGVO.
-
-Running the list from Hard Disk Drives or external drives is STRONGLY ADVISED AGAINST. A lot of content is swapped at game run time and, as a result, fast storage and RAM are needed.
+- Only English and Steam verions aare supported.
+- Requires 1.6.117 with full aniversary edition upgrade.
 
 ### Recommended System Requirements
 
-Ysmir's Beard requires at least a mid-tier modern system to run to its fullest potential. To have graphics this good requires a lot of mods, and consequently a lot of VRAM.
+I recommend a minimum of a modern high-performance desktop CPU, 32 GB RAM, and at least 16 GB VRAM. You can probably play with less, but may see frame stutters and choppiness. 
 
-**I recommend a minimum of 16 GB VRAM to play this game without serious frame drops.**  
+My specs are as follows:
 
-I have a 7900 XT 20 GB card, and get 50-120 FPS almost everywhere. I personally use AMD's native frame gen when I play. 
-
-**Minimums:** 
-
-- CPU | 12th Generation i7 or better/equivalent
-- Ram | 32GB DDR4 Ram  + 40GB Pagefile 
-- Storage | NVME SSD
-- GPU | 12 GB VRAM, preferably 16 GB+
+- Intel i7 12700K
+- AMD 7900 XT 20 GB
+- 32 GB DDR4 3600 RAM
+- 4 TB Sansung 990 Pro NVME storage
+- Seasonic 750W power supply
+- 3440 x 1440 OLED
 
 **Space required:** 
 
